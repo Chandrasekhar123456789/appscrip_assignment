@@ -1,0 +1,56 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+dist/
+
+# Production
+build/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+*.lcov
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Misc
+.DS_Store
+*.pem
+*.key
+*.crt
+
+# Editor and system files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+Thumbs.db
+
+# OS metadata
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# Yarn and npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local runtime data
+.next/
+.cache/
