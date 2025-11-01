@@ -11,3 +11,5 @@ Features:
 - No node_modules included. Safe to push.
 
 Safe push & deploy instructions are in DEPLOYMENT.md
+Published link:
+https://appscrip-assignment-theta.vercel.app/
